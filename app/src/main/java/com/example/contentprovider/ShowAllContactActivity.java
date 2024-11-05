@@ -14,7 +14,7 @@ import androidx.core.app.ActivityCompat;
 import androidx.core.content.ContextCompat;
 import java.util.ArrayList;
 
-public class ShowAllContactActivity extends Activity {
+public class    ShowAllContactActivity extends Activity {
     private static final int REQUEST_CODE_CONTACT = 1;
 
     @Override

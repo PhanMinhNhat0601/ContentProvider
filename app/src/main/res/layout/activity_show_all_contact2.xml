@@ -4,21 +4,23 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp">
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="22115053122127_Phan Minh Nhat"
-        android:textSize="32dp"/>
+        android:text="Danh sách liên hệ"
+        android:textSize="24sp"
+        android:layout_marginBottom="16dp" />
 
     <ListView
         android:id="@+id/listView1"
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1" />
+        android:layout_height="wrap_content" />
 
     <Button
         android:id="@+id/btnback"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Back" />
+        android:text="Quay lại" />
+
 </LinearLayout>

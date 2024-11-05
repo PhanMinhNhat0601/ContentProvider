@@ -1,4 +1,5 @@
 <resources>
     <string name="title_activity_show_all_contact">Show All Contacts</string>
     <string name="app_name">My Application</string>
+    <string name="title_activity_show_call_log">Show Call Log</string>
 </resources>
